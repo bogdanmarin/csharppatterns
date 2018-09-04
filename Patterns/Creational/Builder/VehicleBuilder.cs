@@ -116,7 +116,7 @@ namespace Patterns.Creational.Builder
             builder.BuildFrame();
             builder.BuildEngine();
             builder.BuildWheels();
-            builder.BuildWheels();
+            builder.BuildDoors();
         }
     }
 }

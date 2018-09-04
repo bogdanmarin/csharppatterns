@@ -44,6 +44,14 @@
   <ItemGroup>
     <Compile Include="Creational\AbstractFactory\ContinentFactory.cs" />
     <Compile Include="Creational\Builder\VehicleBuilder.cs" />
+    <Compile Include="Creational\FactoryMethod\Document.cs" />
+    <Compile Include="Creational\FactoryMethod\Page.cs" />
+    <Compile Include="Creational\FactoryMethod\Report.cs" />
+    <Compile Include="Creational\FactoryMethod\Resume.cs" />
+    <Compile Include="Creational\Prototype\Color.cs" />
+    <Compile Include="Creational\Prototype\ColorManager.cs" />
+    <Compile Include="Creational\Prototype\ColorPrototype.cs" />
+    <Compile Include="Creational\Singleton\LoadBalancer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
